@@ -63,4 +63,4 @@ https://github.com/user-attachments/assets/7c517650-c578-4b4e-a738-0143569162ae
 A small responsive flutter app that mocks a digital wallet dashboard (static data).  
 
 ## Screenshot
-<img src="dashbored/Screenshot.png" width = 750>
+<img src="assets/Screenshot.png" width = 750>
