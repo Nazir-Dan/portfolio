@@ -24,19 +24,6 @@ https://github.com/user-attachments/assets/7c517650-c578-4b4e-a738-0143569162ae
 - favorite pokemon list page
 - settings/profile page
 
-# advanced_flutter_e-commerce_app
--A flutter e-commerce mock app that utilize MVVM code pattern.  
--all the implemented APIs are mock APIs created usein "app.wiremock.cloud" websit.  
-## sceenshots
-<img src="assets/flutter_mvvm/Screenshot_2.png" width = 300> <img src="assets/flutter_mvvm/Screenshot_1.png" width = 300>
-<img src="assets/flutter_mvvm/Screenshot_3.png" width = 300> <img src="assets/flutter_mvvm/Screenshot_4.png" width = 300>
-<img src="assets/flutter_mvvm/Screenshot_5.png" width = 300> <img src="assets/flutter_mvvm/Screenshot_6.png" width = 300>
-## features
--this app utilize MVVM code pattern to implement clean code practices.  
--splash screen and onboarding screen.  
--the app authentication features are login, register and forget password.  
--implemented localization using easy_localization package for two languages (arabic - english).
-
 # EMS (Energey management system)
 -A multi-platform IoT Power Management and data analysis system.  
 ## sceenshots
@@ -57,5 +44,19 @@ https://github.com/user-attachments/assets/7c517650-c578-4b4e-a738-0143569162ae
 - data analysis.
 - reporting.
 - exportig to pdf or excel files.
-- tree view for the building. 
+- tree view for the building.
+
+# advanced_flutter_e-commerce_app
+-A flutter e-commerce mock app that utilize MVVM code pattern.  
+-all the implemented APIs are mock APIs created usein "app.wiremock.cloud" websit.  
+## sceenshots
+<img src="assets/flutter_mvvm/Screenshot_2.png" width = 300> <img src="assets/flutter_mvvm/Screenshot_1.png" width = 300>
+<img src="assets/flutter_mvvm/Screenshot_3.png" width = 300> <img src="assets/flutter_mvvm/Screenshot_4.png" width = 300>
+<img src="assets/flutter_mvvm/Screenshot_5.png" width = 300> <img src="assets/flutter_mvvm/Screenshot_6.png" width = 300>
+## features
+-this app utilize MVVM code pattern to implement clean code practices.  
+-splash screen and onboarding screen.  
+-the app authentication features are login, register and forget password.  
+-implemented localization using easy_localization package for two languages (arabic - english).
+
 
