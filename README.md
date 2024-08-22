@@ -50,6 +50,12 @@ https://github.com/user-attachments/assets/7c517650-c578-4b4e-a738-0143569162ae
 <img src="assets/ems/img_8.png" width = 750>
 
 ## features
--this app utilize MVVM code pattern to implement clean code practices.    
--implemented localization using easy_localization package for two languages (arabic - english).
+- utilize MVVM code pattern to implement clean code practices.
+- implemented localization using easy_localization package for two languages (arabic - english).
+- notifications.
+- user roles and permitions management (By building admin).
+- data analysis.
+- reporting.
+- exportig to pdf or excel files.
+- tree view for the building. 
 
