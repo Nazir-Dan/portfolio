@@ -3,6 +3,10 @@
 - a fully functional pokedex mobile aplication using Flutter, Firebase and, Pokeapi (api for all pokemon related data)
 - design inspired from https://www.figma.com/design/F3XebLb5OllI10IZ4O6Qcf/Pok%C3%A9dex-%2F-Pok%C3%A9mon-App-(Community)?node-id=1268-35268&m=dev
 
+# preview
+
+https://github.com/user-attachments/assets/7c517650-c578-4b4e-a738-0143569162ae
+
 # features
 
 - dashboard screen
@@ -16,7 +20,3 @@
 - pokemon details screen containg all the important info about the pokemon like stats, gender ration, damage relations, evolution chain, ... etc.
 - favorite pokemon list page
 - settings/profile page
-
-# preview
-
-https://github.com/user-attachments/assets/7c517650-c578-4b4e-a738-0143569162ae
