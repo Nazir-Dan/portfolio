@@ -31,10 +31,10 @@ https://github.com/user-attachments/assets/7c517650-c578-4b4e-a738-0143569162ae
 <img src="assets/ems/img_2.png" width = 750>
 <img src="assets/ems/img_3.png" width = 750> 
 <img src="assets/ems/img_4.png" width = 750>
-<img src="assets/ems/img_5.png" width = 750> 
+<img src="assets/ems/img_8.png" width = 750> 
 <img src="assets/ems/img_6.png" width = 750>
 <img src="assets/ems/img_7.png" width = 750>
-<img src="assets/ems/img_8.png" width = 750>
+<img src="assets/ems/img_5.png" width = 750>
 
 ## features
 - utilize MVVM code pattern to implement clean code practices.
@@ -59,4 +59,8 @@ https://github.com/user-attachments/assets/7c517650-c578-4b4e-a738-0143569162ae
 -the app authentication features are login, register and forget password.  
 -implemented localization using easy_localization package for two languages (arabic - english).
 
+# responsive_dashboard
+A small responsive flutter app that mocks a digital wallet dashboard (static data).  
 
+## Screenshot
+<img src="assets/Screenshot.png" width = 750>
