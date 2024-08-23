@@ -1,16 +1,20 @@
-# donut_shop_UI
+# Donut_shop
 A fully animated donut shop ui flutter app.
 ## preview
-https://github.com/user-attachments/assets/0072b64d-2f8b-4ec5-bcdd-1849ca88751b
+https://github.com/user-attachments/assets/030c7b7c-7346-4b19-8256-c957ba8752bb
+
+//https://github.com/user-attachments/assets/0072b64d-2f8b-4ec5-bcdd-1849ca88751b
 ## features
 - multiple complex animations.
 - utlizes flutter hooks package to use animation controlers and streams without the need of statfull widget.
 
-# ddd_pokedex
+# Pokedex
 - a fully functional pokedex mobile aplication using Flutter, Firebase and, Pokeapi (api for all pokemon related data)
 - design inspired from https://www.figma.com/design/F3XebLb5OllI10IZ4O6Qcf/Pok%C3%A9dex-%2F-Pok%C3%A9mon-App-(Community)?node-id=1268-35268&m=dev
 ## preview
-https://github.com/user-attachments/assets/7c517650-c578-4b4e-a738-0143569162ae
+https://github.com/user-attachments/assets/a7b3ebbc-ae61-42aa-abea-9f730793449c
+
+//https://github.com/user-attachments/assets/7c517650-c578-4b4e-a738-0143569162ae
 ## features
 - dashboard screen
 - onboarding screen
@@ -51,8 +55,8 @@ https://github.com/user-attachments/assets/7c517650-c578-4b4e-a738-0143569162ae
 -all the implemented APIs are mock APIs created usein "app.wiremock.cloud" websit.  
 ## sceenshots
 <img src="assets/flutter_mvvm/Screenshot_2.png" width = 300> <img src="assets/flutter_mvvm/Screenshot_1.png" width = 300>
-<img src="assets/flutter_mvvm/Screenshot_3.png" width = 300> <img src="assets/flutter_mvvm/Screenshot_4.png" width = 300>
-<img src="assets/flutter_mvvm/Screenshot_5.png" width = 300> <img src="assets/flutter_mvvm/Screenshot_6.png" width = 300>
+<img src="assets/flutter_mvvm/Screenshot_6.png" width = 300> <img src="assets/flutter_mvvm/Screenshot_3.png" width = 300>
+<img src="assets/flutter_mvvm/Screenshot_4.png" width = 300> <img src="assets/flutter_mvvm/Screenshot_5.png" width = 300>
 ## features
 -this app utilize MVVM code pattern to implement clean code practices.  
 -splash screen and onboarding screen.  
